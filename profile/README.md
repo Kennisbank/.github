@@ -6,7 +6,7 @@ Our partners solve infrastructure problems, sometimes system dynamic models: imp
 These partners deposit some of these models in our Kennisbank (knowledge bank) this facilitates collaboration and sharing. 
 Share knowledge about our systems and solutions to dynamic problems drives innovation, leading to more durable, creative and effective solutions. In short...
 
-![Kennisbank Vensim](./img/kennisbank_vensim.png?raw=true)
+![Kennisbank Vensim](./img/kennisbank_vensim.png)
 
 ## How to Navigate the Kennisbank
 1. Step a
