@@ -27,3 +27,5 @@ If you would like to contribute to the Kennisbank, by for instance adding or edi
 Note: depending on the repository _push_ and _merge_ privledges may require a request for write access. Similiarly, if you would like to contribute to the Kennisbank organization (not just one or more of its repositories) please email the organization admins at: peter@deltares.nl or johnkucharski@gmail.com with your github account name and description on your role or intentions. While the Kennisbank is open where possible it may also contain one or more privite repositories (due to partnering organizations requirements) if you would like to access one or more of the repositories please contact the organization admins.  
 
 **Good Luck and Happy Collaborating!**
+
+<sub>Citation for Kennisbank profile image: Montoya, O. D., & Gil-González, W. (2020). Nonlinear analysis and control of a reaction wheel pendulum: Lyapunov-based approach. Engineering Science and Technology, an International Journal, 23(1), 21–29. https://doi.org/10.1016/j.jestch.2019.03.004</sub>
